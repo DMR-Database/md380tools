@@ -19,20 +19,18 @@
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister database tools for Tytera,Ailunce and Anytone
+<h2 id="english">MD-380 & MD390 Firmware made with KD4Z VM
 </h2>
-<b>MD380 & MD390</b>
+<b>MD-380/390 no GPS</b>
 <br>
-The database is used together with TyteraFlashTool v1.04a KD4Z made by KG5RKI and modified by PD1LOI. 
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-noGPS.bin">TyteraFlashTool v1.04a</a>
 </li>
 <br>
-<b>HD1</b>
+<b>MD-380/390 with GPS</b>
 <br>
-The database is used together with Ailunce HD1 AdresTool v1.02 modified by PD1LOI.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-GPS.bin">Ailunce HD1 AdresTool v1.02</a>
 </li>
 <br>
 <b>Anytone</b>

@@ -21,5 +21,5 @@
 <b>MD-380/390 old firmware</b>
 <br>
 <li>
-<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-old.bin">MD-380/390 old firmware</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-OLD.bin">MD-380/390 old firmware</a>
 </li>

@@ -4,7 +4,7 @@
 <br>
 </p>
 <hr>
-<h2 id="english">MD-380 & MD390 Firmware made with KD4Z VM
+<h2 id="english">MD-380 & MD390 Firmware made with KD4Z md380tools
 </h2>
 <b>MD-380/390 no GPS</b>
 <br>

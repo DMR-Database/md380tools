@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="img/BM-Logo.jpg" width="360"></a>
+<img src="img/kd4z-logo.jpg" width="360"></a>
 <br>
 </p>
 <hr>

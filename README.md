@@ -9,18 +9,17 @@
 <b>MD-380/390 no GPS</b>
 <br>
 <li>
-<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-noGPS.bin">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-noGPS.bin">MD-380/390 no GPS</a>
 </li>
 <br>
 <b>MD-380/390 with GPS</b>
 <br>
 <li>
-<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-GPS.bin">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-GPS.bin">MD-380/390 with GPS</a>
 </li>
 <br>
-<b>Anytone</b>
+<b>MD-380/390 old firmware</b>
 <br>
-The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/md380tools/raw/master/firmware-old.bin">MD-380/390 old firmware</a>
 </li>

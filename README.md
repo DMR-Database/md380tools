@@ -8,8 +8,8 @@
 <br><br>
 This is our modified version of KD4Z md380tools firmware.
 <br>
-Our version displays all regions and countrys correctly. L)
-<br>
+Our version displays all regions and countrys correctly. :)
+<br><br>
 <li>
 <a href="https://github.com/BM-Database/md380tools/blob/master/KD4Z%20Toolkit%20v4%20Tutorial%20v1.0d.pdf">KD4Z Toolkit v4 Tutorial v1.0d</a>
 </li>

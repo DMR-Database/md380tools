@@ -12,7 +12,8 @@ Why ? : Our version displays all regions and countrys correctly. :) (work in pro
 <br><br>
 If something displays incorrectly, tell us and we will fix it right away (either in the database or in the software).
 <br><br>
-To flash the latest firmware use our tools from <a href="https://github.com/bm-database/database-tools">here</a>
+To flash the latest firmware use our tools from <a href="https://github.com/bm-database/database-tools">here</a>.
+<br><br>
 <li>
 <a href="https://github.com/BM-Database/md380tools/blob/master/KD4Z%20Toolkit%20v4%20Tutorial%20v1.0d.pdf">KD4Z Toolkit v4 Tutorial v1.0d</a>
 </li>

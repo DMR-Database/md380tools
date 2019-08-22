@@ -8,7 +8,7 @@
 <br><br>
 This is our modified version of KD4Z md380tools firmware.
 <br><br>
-Why ? : Our version displays all regions and countrys correctly. :) (work in progress)
+Why ? : why not :)
 <br><br>
 If something displays incorrectly, tell us and we will fix it right away (either in the database or in the software).
 <br><br>
